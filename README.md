@@ -5,9 +5,9 @@
 
  I’m currently learning **Dart**
 
- I’m Working on an app links to **Database** for a client focusing on **accessiblity** 
+ I’m working on an app that links **Database** to a client-focusing on **accessiblity**- 
 
-I'm looking to collaborate on making projects more **successful** and **efficent** 
+ I'm looking to collaborate on making projects more **successful** and **efficent** 
 
  *currently I have issues with my phone trying to reach me via it will be hard*.
  
