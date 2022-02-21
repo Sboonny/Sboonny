@@ -28,6 +28,7 @@
 
 ___
 ### Programming language
+<p float="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width = '60' alt="TypeScript">
@@ -38,7 +39,7 @@ ___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bW5aiSggZZaYabk4YNayyTQMnFhyZ_L1xQ&usqp=CAU" width= '60' alt ="flutter">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = '60' alt="nodejs">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width = '60' alt="mysql">
-
+</p>
 ___
 Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and google. *thanks google always by my side*.
 ___
