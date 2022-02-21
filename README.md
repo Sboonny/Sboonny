@@ -3,13 +3,13 @@
 
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**
 
+ I'm trying to master **Javascript**🐱‍💻
+
  I’m currently learning **Dart**
 
  I’m working on an app that links **Database** to a client-focusing on **accessiblity**- 
 
  I'm looking to collaborate on making projects more **successful** and **efficent** 
-
- *currently I have issues with my phone trying to reach me via it will be hard*.
  
  ___
 <br>
@@ -24,7 +24,7 @@
 
 [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
 
-*more links will be added when I fix my phone or get new one*
+*more links will be added when I fix my phone or get new one*🐱‍👤😢
 
 ___
 ### Programming language
@@ -42,7 +42,7 @@ ___
 </p>
 
 ___
-#### Nautral Languanges
+#### Nautral Languanges 🐱‍👓
 Native: **Arabic**
 
 Fluant: **English**
