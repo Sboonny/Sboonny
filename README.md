@@ -3,7 +3,7 @@
 
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**
 
- I'm trying to master **Javascript**🐱‍💻
+ I mainly use **Javascript**🐱‍💻
 
  I’m currently learning **Dart**
 
