@@ -3,11 +3,11 @@
 
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**
 
- I mainly use **Javascript**🐱‍💻
+ I mainly use **Javascript** and planning to use **Vue3** as my framework of choice🐱‍💻
 
- I’m currently learning **Dart**
+ I’m currently learning **Vue3**
 
- I’m working on an app that links **Database** to a client-focusing on **accessiblity**- 
+ I’m working on an app finishing my **Portfolio** and have a goal of creating full ecom-site
 
  I'm looking to collaborate on making projects more **successful** and **efficent** 
  
