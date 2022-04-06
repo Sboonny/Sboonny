@@ -7,7 +7,7 @@
 
  I’m currently learning **Vue3**
 
- I’m working on an app finishing my **Portfolio** and have a goal of creating full ecom-site
+ I’m working on an finishing my **Portfolio** and have a goal of creating full ecom-site
 
  I'm looking to collaborate on making projects more **successful** and **efficent** 
  
