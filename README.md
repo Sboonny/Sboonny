@@ -23,8 +23,7 @@
 |Muhammed|muhammedelruby@gmail.com|
 
 [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
-
-*more links will be added when I fix my phone or get new one*🐱‍👤😢
+<!-- https://www.linkedin.com/in/sboonny/ -->
 
 ___
 ### Programming language
