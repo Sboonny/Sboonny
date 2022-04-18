@@ -17,12 +17,7 @@
 
 ## how to reach me
 
-
-|Name|Email|
-|----|----|
-|Muhammed|muhammedelruby@gmail.com|
-
-[Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
+[Email](muhammedelruby@gmail.com)    [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
 <!-- https://www.linkedin.com/in/sboonny/ -->
 
 ___
