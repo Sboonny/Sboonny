@@ -5,7 +5,7 @@
 
  I mainly use **Javascript** and planning to use **Vue3** as my framework of choice🐱‍💻
 
- I’m currently learning **Vue3**
+ I’m currently learning **Vue3**, SQL Server, and GraphQL
 
  I’m working on an finishing my **Portfolio** and have a goal of creating full ecom-site
 
