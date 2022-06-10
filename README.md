@@ -7,9 +7,9 @@
 
  I’m currently learning **Vue3**, SQL Server, and GraphQL
 
- I’m working on an finishing my **Portfolio** and have a goal of creating full ecom-site
+ I’m working on an finishing my **Portfolio** and have a goal of helping out in freeCodeCamp chapter.
 
- I'm looking to collaborate on making projects more **successful** and **efficent** 
+ I'm looking to collaborate on making projects more **successful** and **efficent**.
  
  ___
 <br>
