@@ -12,8 +12,6 @@
  I'm looking to collaborate on making projects more **successful** and **efficent**.
  
  ___
-<br>
-
 
 ## how to reach me
 
