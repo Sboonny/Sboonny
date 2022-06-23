@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Sboonny
 
 
- I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**
+ I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**, and I work in freeCodeCamp.
 
  I mainly use **Javascript** and planning to use **Vue3** as my framework of choice🐱‍💻
 
@@ -22,7 +22,7 @@
 
 ___
 ### Programming language
-<p float="left" margin-left="2px">
+<p float="center" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width = '60' alt="TypeScript">
