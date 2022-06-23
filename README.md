@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Sboonny
 
 
- I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**, and I work in freeCodeCamp.
+ I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**, and I work in <em>freeCodeCamp</em>.
 
  I mainly use **Javascript** and planning to use **Vue3** as my framework of choice🐱‍💻
 
@@ -35,6 +35,6 @@ ___
 #### Nautral Languanges 🐱‍👓
 Native: **Arabic**
 
-Fluant: **English**
+Fluent: **English**
 
 Learning: **Korean** and **Russian**
