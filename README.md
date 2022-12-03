@@ -3,9 +3,9 @@
 
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**, and I work in <em>freeCodeCamp</em>.
 
- I mainly use **Javascript** and planning to use **Vue3** as my framework of choice🐱‍💻
+ I mainly use **TypeScript** 🐱‍💻
 
- I’m currently learning **Vue3**, SQL Server, and GraphQL
+ I’m currently learning accessibility and design patterns.
 
  I’m working on an finishing my **Portfolio** and have a goal of helping out in freeCodeCamp chapter.
 
@@ -15,7 +15,7 @@
 
 ## how to reach me
 
-[Email](muhammedelruby@gmail.com)    [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
+[Email](muhammed@freecodecamp.org)    [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
 <!-- https://www.linkedin.com/in/sboonny/ -->
 
 ___
