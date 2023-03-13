@@ -8,8 +8,6 @@
  I’m currently learning accessibility and design patterns.
 
  I’m working on an finishing my **Portfolio** and have a goal of helping out in freeCodeCamp chapter.
-
- I'm looking to collaborate on making projects more **successful** and **efficent**.
  
  ___
 
