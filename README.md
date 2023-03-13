@@ -6,8 +6,6 @@
  I mainly use **TypeScript** 🐱‍💻
 
  I’m currently learning accessibility and design patterns.
-
- I’m working on an finishing my **Portfolio** and have a goal of helping out in freeCodeCamp chapter.
  
  ___
 
