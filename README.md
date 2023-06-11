@@ -8,13 +8,6 @@
  I work in <em>freeCodeCamp</em>.
 
  I’m currently learning accessibility and design patterns.
- 
- ___
-
-## how to reach me
-
-[Email](muhammed@freecodecamp.org)    [Discord](https://discordapp.com/users/Sboon#0290/ "My Discord")
-<!-- https://www.linkedin.com/in/sboonny/ -->
 
 ___
 ### Programming language
