@@ -18,11 +18,3 @@ ___
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = '60' alt="nodejs">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width = '60' alt="mysql">
 </p>
-
-___
-#### Nautral Languanges 🐱‍👓
-Native: **Arabic**
-
-Fluent: **English**
-
-Learning: **Korean** and **Russian**
