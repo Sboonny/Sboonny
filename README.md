@@ -1,11 +1,10 @@
 # 👋 Hi, I’m @Sboonny
 
-
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**.
 
  I mainly use **TypeScript** 🐱‍💻.
  
- I work in <em>freeCodeCamp</em>.
+ I am looking for new opportunities.
 
  I’m currently learning accessibility and design patterns.
 
