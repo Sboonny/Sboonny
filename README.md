@@ -3,8 +3,6 @@
  I’m interested in learning languages (**Programming languages** or **Nautral languages**) and **workout**.
 
  I mainly use **TypeScript** 🐱‍💻.
- 
- I have previously worked at freeCodeCamp, I am currently looking for new opportunities.
 
  I’m currently learning accessibility and design patterns.
 
