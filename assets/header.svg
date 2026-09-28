@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammed Mustafa (Sboonny)</title>
+  <desc id="desc">Frontend-focused full-stack TypeScript engineer: React, TypeScript, Node.js and right-to-left layouts. An animated panel shows the same UI switching between left-to-right and right-to-left.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1120"/>
+      <stop offset="1" stop-color="#0f2742"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, 'Noto Sans', 'Noto Sans Arabic', sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+
+    .up { opacity: 0; animation: up .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .5s; }
+    .d4 { animation-delay: .7s; } .d5 { animation-delay: .9s; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+
+    .driftA { animation: driftA 16s ease-in-out infinite alternate; }
+    .driftB { animation: driftB 20s ease-in-out infinite alternate; }
+    @keyframes driftA { to { transform: translate(-110px, 36px); } }
+    @keyframes driftB { to { transform: translate(80px, -28px); } }
+
+    /* LTR ↔ RTL demo: the same "UI" mirrors every few seconds */
+    .ltr { animation: showA 8s ease-in-out infinite; }
+    .rtl { animation: showB 8s ease-in-out infinite; opacity: 0; }
+    @keyframes showA { 0%, 42% { opacity: 1; } 50%, 92% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes showB { 0%, 42% { opacity: 0; } 50%, 92% { opacity: 1; } 100% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .up { opacity: 1; animation: none; }
+      .driftA, .driftB, .ltr { animation: none; }
+      .rtl { animation: none; opacity: 0; }
+    }
+  </style>
+
+  <!-- background -->
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="driftA" cx="990" cy="70" r="270" fill="url(#glowA)"/>
+    <circle class="driftB" cx="700" cy="330" r="230" fill="url(#glowB)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <!-- identity -->
+  <g class="sans">
+    <text class="up d1 mono" x="64" y="86" font-size="15" fill="#7dd3fc" letter-spacing="2.5">SOFTWARE ENGINEER · REACT · TYPESCRIPT · NODE.JS</text>
+    <text class="up d2" x="62" y="150" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Muhammed Mustafa</text>
+    <text class="up d3" x="64" y="194" font-size="23" fill="#cbd5e1">Frontend-focused full-stack TypeScript engineer</text>
+
+    <g class="up d4" font-size="15" font-weight="600">
+      <rect x="64" y="226" width="176" height="34" rx="17" fill="#3b82f6" fill-opacity=".16" stroke="#60a5fa" stroke-opacity=".45"/>
+      <text x="152" y="248" text-anchor="middle" fill="#bfdbfe">560 merged PRs</text>
+
+      <rect x="252" y="226" width="186" height="34" rx="17" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".4"/>
+      <text x="345" y="248" text-anchor="middle" fill="#a5f3fc">ex-freeCodeCamp</text>
+
+      <rect x="450" y="226" width="150" height="34" rx="17" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".45"/>
+      <text x="525" y="248" text-anchor="middle" fill="#ddd6fe">RTL &amp; i18n</text>
+    </g>
+  </g>
+
+  <!-- LTR ↔ RTL panel -->
+  <!-- positioning lives on the outer group; the CSS animation (which sets transform) runs on the inner one -->
+  <g transform="translate(806 62)"><g class="up d5">
+    <rect width="330" height="196" rx="14" fill="#0b1324" fill-opacity=".85" stroke="#ffffff" stroke-opacity=".12"/>
+    <circle cx="22" cy="20" r="5" fill="#f87171" fill-opacity=".8"/>
+    <circle cx="40" cy="20" r="5" fill="#fbbf24" fill-opacity=".8"/>
+    <circle cx="58" cy="20" r="5" fill="#34d399" fill-opacity=".8"/>
+    <line x1="0" y1="40" x2="330" y2="40" stroke="#ffffff" stroke-opacity=".08"/>
+
+    <!-- left-to-right state -->
+    <g class="ltr">
+      <text class="mono" x="310" y="25" text-anchor="end" font-size="12" fill="#7dd3fc">dir="ltr"</text>
+      <text class="sans" x="24" y="78" font-size="20" font-weight="600" fill="#f1f5f9">Hello, world</text>
+      <rect x="24" y="96" width="220" height="9" rx="4.5" fill="#94a3b8" fill-opacity=".45"/>
+      <rect x="24" y="114" width="170" height="9" rx="4.5" fill="#94a3b8" fill-opacity=".3"/>
+      <rect x="24" y="142" width="96" height="30" rx="8" fill="#3b82f6"/>
+      <text class="sans" x="72" y="162" text-anchor="middle" font-size="13" font-weight="600" fill="#ffffff">Start →</text>
+    </g>
+
+    <!-- right-to-left state (mirrored) -->
+    <g class="rtl">
+      <text class="mono" x="310" y="25" text-anchor="end" font-size="12" fill="#c4b5fd">dir="rtl"</text>
+      <text class="sans" x="306" y="78" text-anchor="start" direction="rtl" font-size="20" font-weight="600" fill="#f1f5f9">مرحبًا بالعالم</text>
+      <rect x="86" y="96" width="220" height="9" rx="4.5" fill="#94a3b8" fill-opacity=".45"/>
+      <rect x="136" y="114" width="170" height="9" rx="4.5" fill="#94a3b8" fill-opacity=".3"/>
+      <rect x="210" y="142" width="96" height="30" rx="8" fill="#8b5cf6"/>
+      <text class="sans" x="258" y="162" text-anchor="middle" direction="rtl" font-size="13" font-weight="600" fill="#ffffff">ابدأ ←</text>
+    </g>
+  </g></g>
+</svg>
